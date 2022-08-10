@@ -1,9 +1,23 @@
 <template>
 
     <div>
-        <input type="checkbox" id="todo-item" />
-        <label for="todo-item">My Todo Item</label>
+        <div id="check-box">
+          <input type="checkbox" id="todo-item" />
+        <label for="todo-item">My Todo Item</label>  
+        </div>
+        
+
+        <div>
+
+
+        </div>
+        <div>
+
+        </div>
+    
     </div>
+    
+
 </template>
 
 <script>
