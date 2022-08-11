@@ -6,15 +6,6 @@
         <label for="todo-item">My Todo Item</label>  
         </div>
         
-
-        <div>
-
-
-        </div>
-        <div>
-
-        </div>
-    
     </div>
     
 
